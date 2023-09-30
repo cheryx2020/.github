@@ -1,0 +1,6 @@
+{
+    "name": "My Workflow",
+    "description": "A simple workflow to say hello",
+    "iconName": "hello",
+    "categories": ["Hello"]
+    }
